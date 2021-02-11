@@ -12,6 +12,8 @@ app.get('',())
 app.post('',())
 
 app.put('',())
+
+app.delete('',())
 """
 
 import json
